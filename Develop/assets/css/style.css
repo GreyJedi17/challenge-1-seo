@@ -16,7 +16,9 @@ a {
 p {
     font-size: 16px;
 }
-
+/* ========================================================
+   .header selectors apply to the header/nav bar.
+   ======================================================== */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -46,7 +48,7 @@ p {
     margin-left: 25px;
 }
 
-
+/* this is the large 'hero' image in the center after the header/nav bar. This defines positioning and characteristics  */
 .hero {
     height: 800px;
     width: 100%;
@@ -56,6 +58,9 @@ p {
     background-position: center;
 }
 
+/* ========================================================
+   .float selectors move content to either right or left side respectively.
+   ======================================================== */
 .float-left {
     float: left;
     margin-right: 25px;
