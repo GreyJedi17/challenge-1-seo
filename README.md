@@ -1,17 +1,15 @@
 # Challenge-1-SEO
 <!-- TODO: add everything here -->
+<!-- TODO: remove all descriptive text!  -->
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+This is my initial project "challenge" for a coding bootcamp. This project was a revision of existing code. The assignment was to complete the following: 
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+- Ensure code works as designed (links, image size, formatting, etc.)
+- Clean up any excess code in CSS. 
+- Add comments to help maintain in future. 
 
 ## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
 
 - [Challenge-1-SEO](#challenge-1-seo)
   - [Description](#description)
@@ -20,41 +18,33 @@ If your README is long, add a table of contents to make it easy for users to fin
   - [Usage](#usage)
   - [Credits](#credits)
   - [License](#license)
-  - [Features](#features)
   - [Tests](#tests)
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+This can be used as a reference for coding comments, scroll links, and more basic functions. Also can be used to reference down the road to see where I started coding. 
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+<!-- TODO: add screenshot 
+'''md
+![Horiseon screenshot](file location)
+''' -->
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+<!-- TODO: add references here that I used for help.  -->
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+Referenced for adding comments in CSS: https://github.com/necolas/idiomatic-css
 
 ## License
 <!-- TODO: add personal link to license upon deployment -->
 Licensed under the [![MIT](https://opensource.org/licenses/MIT) license.
 
-
-## Features
-
-If your project has a lot of features, list them here.
-
-
 ## Tests
 
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+Inspect the elements with Chrome devtools to find comments that describe section purposes. 
