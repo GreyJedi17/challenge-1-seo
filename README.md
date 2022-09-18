@@ -1,6 +1,5 @@
 # Challenge-1-SEO
-<!-- TODO: add everything here -->
-<!-- TODO: remove all descriptive text!  -->
+
 ## Description
 
 This is my initial project "challenge" for a coding boot-camp. This project was a revision of existing code. The assignment was to complete the following: 
@@ -8,17 +7,6 @@ This is my initial project "challenge" for a coding boot-camp. This project was 
 - Ensure code works as designed (links, image size, formatting, etc.)
 - Clean up any excess code in CSS. 
 - Add comments to help maintain in future. 
-
-## Table of Contents
-
-- [Challenge-1-SEO](#challenge-1-seo)
-  - [Description](#description)
-  - [Table of Contents](#table-of-contents)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Credits](#credits)
-  - [License](#license)
-  - [Tests](#tests)
 
 ## Installation
 
