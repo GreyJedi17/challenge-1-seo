@@ -26,7 +26,7 @@ Referenced for adding comments in CSS: https://github.com/necolas/idiomatic-css
 
 ## License
 
-Licensed under the ![MIT](./LICENSE) license.
+Licensed under the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE) license.
 
 ## Tests
 
