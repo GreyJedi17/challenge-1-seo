@@ -16,7 +16,7 @@ N/A
 
 This can be used as a reference for coding comments, scroll links, and more basic functions. Also can be used to reference down the road to see where I started coding. 
 
-![Horiseon screenshot](./Develop/assets/images/horiseon-screenshot.png)
+![Horiseon screenshot](./assets/images/horiseon-screenshot.png)
 
 ## Credits
 
